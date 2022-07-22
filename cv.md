@@ -71,4 +71,10 @@ At the moment I work in the supply of oil and gas projects. I am 28 years old an
 - Geek Brains - FullStack Java Script Developer
 - Intensive Business English (60h)
 
-##
+## Languages
+
+---
+
+- Russian (native)
+- English (A2)
+- Chinese (HSK 5)
