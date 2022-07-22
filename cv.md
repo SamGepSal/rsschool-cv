@@ -1,5 +1,3 @@
-## RsSchool-CV
-
 # Anton I
 
 <img align="right" width="200" height="200" src="photo.png" alt="photo">
