@@ -2,10 +2,9 @@
 
 ---
 
-# Anton I <kbd>
+# Anton I
 
-<img align="right" width="150" height="150" src="photo.png" alt="photo">
-</kbd>
+<img align="right" width="200" height="200" src="photo.png" alt="photo">
 
 ## Contact information:
 
